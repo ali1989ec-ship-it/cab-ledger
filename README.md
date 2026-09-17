@@ -2,6 +2,8 @@
 
 A mobile-friendly first version for London cab drivers to record shifts, jobs, mileage, takings and estimated running costs.
 
+Use it at https://ali1989ec-ship-it.github.io/cab-ledger/ . GitHub Pages publishes the `dist` folder when changes are pushed to `main`.
+
 ## Run
 
 Serve the `dist` directory with any local static HTTP server, for example `python3 -m http.server 8000 --directory dist`, then open `http://localhost:8000`. Location needs HTTPS on a real device. No installation or secret configuration is required.
